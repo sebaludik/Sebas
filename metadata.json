@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Image Expression Editor",
+  "description": "An AI-powered image editor that allows users to upload a photo and modify facial expressions, add or generate objects, and change image aspect ratios using simple text prompts with Gemini.",
+  "requestFramePermissions": []
+}
